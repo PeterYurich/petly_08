@@ -2,20 +2,20 @@
   "name": "petly",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://peteryurich.github.io/04_petly/",
+  "homepage": "https://peteryurich.github.io/petly_08/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /04_petly/"
+    "build": "parcel build src/*.html --public-url /petly_08/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/peteryurich/04_petly.git"
+    "url": "git+https://github.com/peteryurich/petly_08.git"
   },
   "keywords": [],
   "author": "peteryurich@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/peteryurich/04_petly/issues"
+    "url": "https://github.com/peteryurich/petly_08/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
