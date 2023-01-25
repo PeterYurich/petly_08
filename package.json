@@ -2,7 +2,7 @@
   "name": "petly",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/04_petly",
+  "homepage": "https://peteryurich.github.io/04_petly/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /parcel-project-template/"
